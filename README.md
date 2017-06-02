@@ -18,11 +18,13 @@
 
 [yog2](https://github.com/fex-team/yog2) 百度出品的前端构建工具，将[fis3](https://github.com/fex-team/fis3)和[express](https://github.com/expressjs/express)结合在一起
 
-[webpack](https://github.com/webpack/webpack) 当下最火的前端构建工具
-
 ## 后端语言
 
 [node](https://github.com/nodejs/node) 用javascript写后端应用
+
+## 守护进程
+
+[pm2](https://github.com/Unitech/pm2) node.js的守护进程，进程挂掉之后自动重启
 
 ## 后端框架
 
