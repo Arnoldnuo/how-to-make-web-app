@@ -6,7 +6,7 @@
 
 ## 界面设计
 
-[boostrap](https://github.com/twbs/bootstrap) twitter出品的响应式框架，可以快速构建优美的前端界面
+[bootstrap](https://github.com/twbs/bootstrap) twitter出品的响应式框架，可以快速构建优美的前端界面
 
 [material-design-lite](https://github.com/google/material-design-lite) Google出品的[Material Design](http://www.google.com/design/spec/material-design/introduction.html) 风格的前端框架
 
